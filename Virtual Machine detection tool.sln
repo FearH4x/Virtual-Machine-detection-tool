@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virtual Machine detection tool", "Virtual Machine detection tool\Virtual Machine detection tool.vcxproj", "{0AE887A4-9376-4325-A08E-3D99174A7C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Debug|x64.ActiveCfg = Debug|x64
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Debug|x64.Build.0 = Debug|x64
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Debug|x86.Build.0 = Debug|Win32
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Release|x64.ActiveCfg = Release|x64
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Release|x64.Build.0 = Release|x64
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Release|x86.ActiveCfg = Release|Win32
+		{0AE887A4-9376-4325-A08E-3D99174A7C54}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592E4128-DB05-40B2-B33A-4D45AF5DB0D0}
+	EndGlobalSection
+EndGlobal
